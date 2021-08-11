@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4bce5f0b.chunk.css",
+    "main.js": "/static/js/main.ea50c08b.chunk.js",
+    "main.js.map": "/static/js/main.ea50c08b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c756e4b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c756e4b5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5791c640.chunk.js": "/static/js/2.5791c640.chunk.js",
+    "static/js/2.5791c640.chunk.js.map": "/static/js/2.5791c640.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4bce5f0b.chunk.css.map": "/static/css/main.4bce5f0b.chunk.css.map",
+    "static/js/2.5791c640.chunk.js.LICENSE.txt": "/static/js/2.5791c640.chunk.js.LICENSE.txt",
+    "static/media/bCart.0edb5901.png": "/static/media/bCart.0edb5901.png",
+    "static/media/combos.822a30be.jpg": "/static/media/combos.822a30be.jpg",
+    "static/media/muffin.c5a2971b.png": "/static/media/muffin.c5a2971b.png",
+    "static/media/simples.e74fafbc.jpg": "/static/media/simples.e74fafbc.jpg",
+    "static/media/triples.1cf4a0a7.jpg": "/static/media/triples.1cf4a0a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c756e4b5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5791c640.chunk.js",
+    "static/css/main.4bce5f0b.chunk.css",
+    "static/js/main.ea50c08b.chunk.js"
+  ]
+}

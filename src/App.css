@@ -1,0 +1,154 @@
+.cart {
+  height: 3rem;
+  width: 3rem;
+}
+
+.logo {
+  height: 3rem;
+  width: 3rem;
+  margin-right: 20px;
+}
+
+.app-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 40px;
+}
+
+.container {
+  height: 40px;
+}
+
+
+.cards-container {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.card {
+  margin-top: 30px;
+  height: 25rem;
+}
+
+.Header-container {
+  text-align: center;
+  margin: 10px;
+}
+
+span {
+  color: red;
+}
+
+h2 {
+  margin-top: 50px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.col {
+  margin: 2px;
+}
+
+.container-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+}
+
+.about-p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 24px;
+}
+
+.Link {
+  text-decoration: none;
+  color: rgba(0,0,0,.5);
+  margin-top: 8px;
+  margin-left: 5px;
+  font-size: 16px;
+  padding-right: .5 rem;
+  padding-left: .5 rem;
+}
+
+.Link:hover {
+  text-decoration: none;
+  color: rgba(0,0,0,.7);
+}
+
+.a:hover {
+  color: rgba(0,0,0,.7);
+}
+
+.App {
+  height: 250px;
+  margin-top: 130px;
+}
+
+.carrito {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.carrito-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.cart-btn {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-detalle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 20px;
+}
+
+.load-cart {
+  display: flex;
+  align-items:center;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+
+.btns-cart {
+  margin: 15px;
+}
+
+.formulario {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.Formulario-c {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.orderNumber {
+  margin-left: 50px;
+}
